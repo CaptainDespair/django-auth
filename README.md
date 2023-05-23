@@ -18,8 +18,13 @@ Python3.11, Django4+, SQLite3, HTML5
 
 # Run
 <i>Installing requirements file</i>
+
 > pip install -r requirements
+
 <i>Migrate to DB</i>
+
 > python manage.py migrate
+
 <i>Run app on django-server</i>
+
 > python manage.py runserver
